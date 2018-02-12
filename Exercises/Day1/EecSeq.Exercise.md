@@ -265,7 +265,9 @@ Don't forget to put in your username in for the my_username.
 Also, if you are using a windows machine, you may have to use an FTP client to transfer this file.  
  
 Once you open the file:
-![alt text](/EecSeq_Figure.png)
+
+![alt text](https://github.com/jpuritz/Winter.School2018/raw/master/Exercises/Day1/EecSeq_Figure.png)
+
 Each exome capture pool coverage is plotted in light blue with dashed grey border, 
 and a rolling 100 bp window average across all pools is plotted in dark blue. 
 Each RNAseq (probe) sample coverage is plotted in light red with dashed grey border 
