@@ -6,5 +6,5 @@ Welcome to the unofficial repository for course materials from [B@G<sup>3</sup>]
 ##### Dr. Jonathan Puritz 
 University of Rhode Island, USA
 
-* **[Lectures](/Lectures/Day 1)**
-* **[Practical](/Exercises/Day 1)**
+* **[Lectures](/Lectures/Day%01)**
+* **[Practical](/Exercises/Day%01)**
