@@ -1,6 +1,6 @@
 # Winter School 2018- Bioinformatics for Adaptation Genomics
 
-Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>](http://www.adaptation.ethz.ch/education/winter-school-2018.html)
+Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>](http://www.adaptation.ethz.ch/education/bag-winter-school-2018.html)
 
 ## The bioinformatics of reduced representation libraries: RADseq and beyond
 ##### Prof. Jonathan Puritz  
