@@ -15,3 +15,9 @@ Wellcome Trust Sanger Institute, UK
 
 * **[Lecture](https://docs.google.com/presentation/d/1t921ccF66N0_oyn09gbM0w8nzADzWF20rfZkeMv3Sy8/edit?usp=sharing)**
 * **[Practical](https://docs.google.com/document/d/1CV3AUackPEaSw7GkY6f7Q5lnlTVeWkyh6IOrB4jQwMg/edit?usp=sharing)**
+
+## Detection of signatures of selection
+#### Prof. Anders Albrechtsen 
+Copenhagen University, Denmark
+
+* **[Lecture and Practicals](http://popgen.dk/albrecht/BAG2018/web/)**
