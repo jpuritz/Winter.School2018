@@ -6,8 +6,8 @@ Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>]
 #### Prof. Jonathan Puritz  
 University of Rhode Island, USA
 
-* **[Lecture](/Lectures/Day%01)**
-* **[Practical](/Exercises/Day%01)**
+* **[Lecture](/Lectures/Day1)**
+* **[Practical](/Exercises/Day1)**
 
 ##  Whole genome and exome datasets
 #### Erik Garrison 
