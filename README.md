@@ -21,3 +21,10 @@ Wellcome Trust Sanger Institute, UK
 Copenhagen University, Denmark
 
 * **[Lecture and Practicals](http://popgen.dk/albrecht/BAG2018/web/)**
+
+## Inferring complex demographies from genomic data and low coverage GWAS
+#### Prof. Daniel Wegmann 
+University of Fribourg, Switzerland
+
+* **[Lecture](http://homeweb.unifr.ch/wegmannd/pub/BAG2018/DemoInference_complete_2018.pdf)**
+* **[Exercises](http://homeweb.unifr.ch/wegmannd/pub/BAG2018/)**
