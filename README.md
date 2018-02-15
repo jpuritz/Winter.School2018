@@ -28,3 +28,10 @@ University of Fribourg, Switzerland
 
 * **[Lecture](http://homeweb.unifr.ch/wegmannd/pub/BAG2018/DemoInference_complete_2018.pdf)**
 * **[Exercises](http://homeweb.unifr.ch/wegmannd/pub/BAG2018/)**
+
+## Theory and methods of RNA-seq studies
+#### Dr. Simone Tiberi 
+University of Zurich, Switzerland
+
+* **Lecture**
+* **Exercises**
