@@ -2,6 +2,8 @@
 
 Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>](http://www.adaptation.ethz.ch/education/bag-winter-school-2018.html)
 
+![alt text](http://www.adaptation.ethz.ch/education/bag-winter-school-2018/_jcr_content/par/fullwidthimage_2145938814/image.imageformat.fullwidth.1984122729.png)
+
 ## The bioinformatics of reduced representation libraries: RADseq and beyond
 #### Prof. Jonathan Puritz  
 University of Rhode Island, USA
