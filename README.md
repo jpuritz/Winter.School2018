@@ -33,5 +33,5 @@ University of Fribourg, Switzerland
 #### Dr. Simone Tiberi 
 University of Zurich, Switzerland
 
-* **Lecture**
-* **Exercises**
+* **[Lecture](https://github.com/SimoneTiberi/BG4-2018/tree/master/Slides)**
+* **[Exercises](https://github.com/SimoneTiberi/BG4-2018)**
