@@ -1,6 +1,6 @@
 # Winter School 2018- Bioinformatics for Adaptation Genomics
 
-Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>](http://www.adaptation.ethz.ch/education/bag-winter-school-2018.html)
+Welcome to the unofficial repository for course materials from [B@G<sup>4</sup>](http://www.adaptation.ethz.ch/education/bag-winter-school-2018.html).  Please find links to all the course material below.
 
 ![alt text](http://www.adaptation.ethz.ch/education/bag-winter-school-2018/_jcr_content/par/fullwidthimage_2145938814/image.imageformat.fullwidth.1984122729.png)
 
